@@ -1,6 +1,7 @@
 # while-true-practaic
 while true 判斷成績級數，並讓使用者選擇是否繼續執行或離開
 # -*- coding: UTF-8 -*-
+
 while True:
 	while True:
 		score = int(input('請輸入學生成績：'))
